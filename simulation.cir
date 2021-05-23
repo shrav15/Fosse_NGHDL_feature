@@ -1,0 +1,46 @@
+* using sub circuit netlist 
+
+comparator
+V1 a 0 pulse(0 5 0 0 0 50ms 100ms)
+V2 b 0 pulse(0 5 0 0 0 25ms 200ms)
+.subckt not 1 3 
+ .model MOSN NMOS 
+ .model MOSP PMOS 
+M1 3 1 2 2 MOSP
+M2 0 1 3 0 MOSN 
+vdd 2 0 5 
+.ends
+.subckt and_gate vin1 vin2 a_out
+    .model MOSN NMOS 
+    .model MOSP PMOS 
+	M1 d vin1 out 20 MOSP
+	M2 d vin2 out 20 MOSP
+	M3 out vin1 s 0 MOSN
+	M4 s vin2 s 0 MOSN
+	vdd d 0 5 
+	x1 out a_out not 
+.ends
+
+.subckt exor_gate vin vin2 e_out 
+    .model MOSN NMOS 
+    .model MOSP PMOS 
+    M4 1 vin 3 10 MOSP
+    M5 3 vin 0 0 MOSN
+    vdd 1 0 5 
+    M6 vin vin2 out 10 MOSP
+    M7 out vin2 3 0 MOSN
+    x2 out e_out not 
+.ends 
+
+x3 a nota not
+x4 b notb not
+x5 a notb out1 and_gate
+x6 nota b out2 and_gate
+x7 a b out3 exor_gate
+.tran 10us 500ms
+.control
+run
+set color0=black 
+plot v(out1),v(out2)+10,v(out3)+20,v(a)+30,v(b)+40
+.endc
+.end
