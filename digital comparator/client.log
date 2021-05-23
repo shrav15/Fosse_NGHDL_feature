@@ -1,0 +1,370 @@
+Setup Client Server Connection at Sun May 23 02:44:51 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1188 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1188 & Message sent : a:0,b:0 
+Message Received From Server-c:0;
+Client-Bit val is 0 
+Setup Client Server Connection at Sun May 23 02:44:56 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1216 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1216 & Message sent : i:0 
+Message Received From Server-o:1;
+Client-Bit val is 1 
+Setup Client Server Connection at Sun May 23 02:45:01 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1216 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1216 & Message sent : a:0,b:0 
+Message Received From Server-c:0;
+Client-Bit val is 0 
+Setup Client Server Connection at Sun May 23 02:45:05 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1208 
+Client-Connecting to server 
+Connect- Error:Tried to connect server on port, failed...giving up 
+Setup Client Server Connection at Sun May 23 02:54:57 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1160 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1160 & Message sent : a:0,b:0 
+Message Received From Server-c:0;
+Client-Bit val is 0 
+Setup Client Server Connection at Sun May 23 02:54:57 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 868 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 868 & Message sent : i:0 
+Message Received From Server-o:1;
+Client-Bit val is 1 
+Setup Client Server Connection at Sun May 23 02:54:57 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1164 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1164 & Message sent : a:0,b:0 
+Message Received From Server-c:0;
+Client-Bit val is 0 
+Setup Client Server Connection at Sun May 23 02:55:19 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1172 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1172 & Message sent : a:0,b:0 
+Message Received From Server-c:0;
+Client-Bit val is 0 
+Setup Client Server Connection at Sun May 23 02:55:19 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 480 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 480 & Message sent : i:0 
+Message Received From Server-o:1;
+Client-Bit val is 1 
+Setup Client Server Connection at Sun May 23 02:55:19 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1180 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1180 & Message sent : a:0,b:0 
+Message Received From Server-c:0;
+Client-Bit val is 0 
+Setup Client Server Connection at Sun May 23 02:54:57 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1180 
+Client-Connecting to server 
+Connect- Error:Tried to connect server on port, failed...giving up 
+Setup Client Server Connection at Sun May 23 02:55:19 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1172 
+Client-Connecting to server 
+Connect- Error:Tried to connect server on port, failed...giving up 
+Setup Client Server Connection at Sun May 23 02:55:50 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1168 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1168 & Message sent : a:0,b:0 
+Message Received From Server-c:0;
+Client-Bit val is 0 
+Setup Client Server Connection at Sun May 23 02:55:50 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 876 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 876 & Message sent : i:0 
+Message Received From Server-o:1;
+Client-Bit val is 1 
+Setup Client Server Connection at Sun May 23 02:55:50 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 876 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 876 & Message sent : a:0,b:0 
+Message Received From Server-c:0;
+Client-Bit val is 0 
+Setup Client Server Connection at Sun May 23 02:55:50 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1168 
+Client-Connecting to server 
+Connect- Error:Tried to connect server on port, failed...giving up 
+Setup Client Server Connection at Sun May 23 02:56:52 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1112 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1112 & Message sent : a:0,b:0 
+Message Received From Server-c:0;
+Client-Bit val is 0 
+Setup Client Server Connection at Sun May 23 02:56:52 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1112 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1112 & Message sent : i:0 
+Message Received From Server-o:1;
+Client-Bit val is 1 
+Setup Client Server Connection at Sun May 23 02:56:52 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1192 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1192 & Message sent : a:0,b:0 
+Message Received From Server-c:0;
+Client-Bit val is 0 
+Setup Client Server Connection at Sun May 23 02:56:52 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 876 
+Client-Connecting to server 
+Connect- Error:Tried to connect server on port, failed...giving up 
+Setup Client Server Connection at Sun May 23 02:58:48 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1168 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1168 & Message sent : a:0,b:0 
+Message Received From Server-c:0;
+Client-Bit val is 0 
+Setup Client Server Connection at Sun May 23 02:58:48 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1176 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1176 & Message sent : i:0 
+Message Received From Server-o:1;
+Client-Bit val is 1 
+Setup Client Server Connection at Sun May 23 02:58:48 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1196 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1196 & Message sent : a:0,b:0 
+Message Received From Server-c:0;
+Client-Bit val is 0 
+Setup Client Server Connection at Sun May 23 02:58:48 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1196 
+Client-Connecting to server 
+Connect- Error:Tried to connect server on port, failed...giving up 
+Setup Client Server Connection at Sun May 23 10:03:39 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1160 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1160 & Message sent : a:0,b:0 
+Message Received From Server-c:0;
+Client-Bit val is 0 
+Setup Client Server Connection at Sun May 23 10:03:50 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 936 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 936 & Message sent : i:0 
+Message Received From Server-o:1;
+Client-Bit val is 1 
+Setup Client Server Connection at Sun May 23 10:03:56 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1160 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1160 & Message sent : a:0,b:0 
+Message Received From Server-c:0;
+Client-Bit val is 0 
+Setup Client Server Connection at Sun May 23 10:04:02 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1168 
+Client-Connecting to server 
+Connect- Error:Tried to connect server on port, failed...giving up 
+Setup Client Server Connection at Sun May 23 10:05:33 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1168 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1168 & Message sent : a:0,b:0 
+Message Received From Server-c:0;
+Client-Bit val is 0 
+Setup Client Server Connection at Sun May 23 10:05:40 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1172 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1172 & Message sent : i:0 
+Message Received From Server-o:1;
+Client-Bit val is 1 
+Setup Client Server Connection at Sun May 23 10:05:40 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1188 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1188 & Message sent : a:0,b:0 
+Message Received From Server-c:0;
+Client-Bit val is 0 
+Setup Client Server Connection at Sun May 23 10:05:40 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 856 
+Client-Connecting to server 
+Connect- Error:Tried to connect server on port, failed...giving up 
+Setup Client Server Connection at Sun May 23 10:08:09 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1168 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1168 & Message sent : a:0,b:0 
+Message Received From Server-c:0;
+Client-Bit val is 0 
+Setup Client Server Connection at Sun May 23 10:08:09 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 916 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 916 & Message sent : i:0 
+Message Received From Server-o:1;
+Client-Bit val is 1 
+Setup Client Server Connection at Sun May 23 10:08:09 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1192 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1192 & Message sent : a:0,b:0 
+Message Received From Server-c:0;
+Client-Bit val is 0 
+Setup Client Server Connection at Sun May 23 10:08:09 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1216 
+Client-Connecting to server 
+Connect- Error:Tried to connect server on port, failed...giving up 
+Setup Client Server Connection at Sun May 23 10:15:44 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1184 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1184 & Message sent : a:0,b:0 
+Message Received From Server-c:0;
+Client-Bit val is 0 
+Setup Client Server Connection at Sun May 23 10:15:51 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1188 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1188 & Message sent : i:0 
+Message Received From Server-o:1;
+Client-Bit val is 1 
+Setup Client Server Connection at Sun May 23 10:15:51 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : a:0,b:0 
+Message Received From Server-c:0;
+Client-Bit val is 0 
+Setup Client Server Connection at Sun May 23 10:15:51 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1208 
+Client-Connecting to server 
+Connect- Error:Tried to connect server on port, failed...giving up 

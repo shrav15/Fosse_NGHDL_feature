@@ -1,0 +1,29 @@
+* D:\FOSSEE\comp\comp.cir
+
+* EESchema Netlist Version 1.1 (Spice format) creation date: 23-May-21 2:40:21 AM
+
+* To exclude a component from the Spice Netlist add [Spice_Netlist_Enabled] user FIELD set to: N
+* To reorder the component spice node sequence add [Spice_Node_Sequence] user FIELD and define sequence: 2,1,0
+
+* Sheet Name: /
+v1  in1 GND pulse		
+R1  in1 GND 100k		
+v2  in2 GND pulse		
+R2  GND in2 100k		
+U7  in1 in2 Net-_U2-Pad1_ Net-_U3-Pad1_ adc_bridge_2		
+U5  Net-_U2-Pad2_ Net-_U3-Pad1_ Net-_U5-Pad3_ and_gate		
+U2  Net-_U2-Pad1_ Net-_U2-Pad2_ inverter		
+U8  Net-_U2-Pad1_ Net-_U3-Pad1_ Net-_U8-Pad3_ xor_gate		
+U3  Net-_U3-Pad1_ Net-_U3-Pad2_ inverter		
+U6  Net-_U2-Pad1_ Net-_U3-Pad2_ Net-_U6-Pad3_ and_gate		
+U9  Net-_U5-Pad3_ Net-_U8-Pad3_ Net-_U6-Pad3_ out1 out2 out3 dac_bridge_3		
+R3  out1 GND 100k		
+R4  out2 GND 100k		
+R5  out3 GND 100k		
+U4  in1 plot_v1		
+U1  in2 plot_v1		
+U10  out1 plot_v1		
+U11  out2 plot_v1		
+U12  out3 plot_v1		
+
+.end
